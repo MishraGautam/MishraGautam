@@ -35,6 +35,7 @@ That's why I like to make things that make a difference.
 - 👯 Join my community if you're a tech enthusiast
 - 📬 How to reach me: [gautamjansa@gmail.com](mailto:gautamjansa@gmail.com)
 - 📝 You can find my [Resume](https://drive.google.com/file/d/1az-VXPOy49x3dSLTVS1d9NJEjN-kVGWc/view?usp=sharing) here.
+- 📝 You can find my [Portfolio & Projects](https://mishragautam.github.io/me) here.
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
