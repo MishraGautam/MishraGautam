@@ -11,7 +11,7 @@
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=MishraGautam)
 
-I am a Senior Software Engineer & Full Stack Developer - MERN
+I am an Engineering Lead & Full Stack Developer - MERN
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
 
@@ -22,8 +22,8 @@ That's why I like to make things that make a difference.
 
 ### Talking about Personal Stuffs:
 
-- 👨‍🎓 I'm a **Senior Software Engineer**
-- 🔭 Currently working in MERN Technology as a Full Stack Developer.
+- 👨‍🎓 I'm a **Engineering Lead**
+- 🔭 Currently working in MERN Technology as a Lead on an IBM Project.
 - 🔭 Developed Android and iOS apps live on Play store and App store.
 - 🔭 Worked on 12+ group projects and 8+ standalone projects till now.
 - 💪 Leading a team of 9 very professional coders.
