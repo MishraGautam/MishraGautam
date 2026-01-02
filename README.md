@@ -22,8 +22,7 @@ That's why I like to make things that make a difference.
 
 ### Talking about Personal Stuffs:
 
-- 👨‍🎓 I'm a **Engineering Lead**
-- 🔭 Currently working in MERN Technology as a Lead on an IBM Project.
+- 👨‍🎓 I'm an **Engineering Lead** currently working in MERN Technology as a Lead on an IBM Project.
 - 🔭 Developed Android and iOS apps live on Play store and App store.
 - 🔭 Worked on 12+ group projects and 8+ standalone projects till now.
 - 💪 Leading a team of 9 very professional coders.
