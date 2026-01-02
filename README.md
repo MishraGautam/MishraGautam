@@ -1,6 +1,6 @@
 # Welcome to Gautam Mishra profile! <a href="https://mishragautam.github.io/me/" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/gautam-mishra-846655149/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/g-mishra-g/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.instagram.com/really__famous/?igshid=ZDdkNTZiNTM%3D" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautam" height="30" width="40" /></a>
 &nbsp;
